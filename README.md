@@ -4,4 +4,4 @@ A repository for me to play with the configuration of Terraform
 
 ## Experiences
 
-* Tutorial: Just the basic of Terraform, main, outputs, variables 
+* Tutorials/Docker: Just the basic of Terraform with Docker, main, outputs, variables 
