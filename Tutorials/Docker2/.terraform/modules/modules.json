@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"hello","Source":"registry.terraform.io/joatmon08/hello/random","Version":"3.0.1","Dir":".terraform/modules/hello"},{"Key":"nginx-pet","Source":"./nginx","Dir":"nginx"}]}
