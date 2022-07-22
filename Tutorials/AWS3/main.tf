@@ -23,7 +23,7 @@ provider "aws" {
 }
 
 resource "aws_ebs_volume" "example" {
-  availability_zone = "us-west-2c"
+  availability_zone = "us-west-2a"
   size              = 1
 }
 
@@ -51,6 +51,7 @@ data "aws_ami" "ubuntu" {
 
 resource "aws_instance" "app_server" {
   ami           = data.aws_ami.ubuntu.id
+  availability_zone = "us-west-2a"
   instance_type = "t2.micro"
 
   tags = {
