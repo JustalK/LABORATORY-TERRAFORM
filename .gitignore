@@ -105,4 +105,4 @@ dist
 
 keys/
 
-.tutorials/**/.terraform
+Tutorials/**/.terraform/
