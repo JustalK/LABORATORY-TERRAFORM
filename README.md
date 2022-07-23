@@ -3,9 +3,11 @@
 A repository for me to play with the configuration of Terraform
 
 ## Experiences
-* **Docker:** Create a simple instance EC2
-* **Docker2:** Create a custom instance EC2
-* **Docker3:** Create a custom instance EC2 with a volume attached
+* **AWS:** Create a simple instance EC2
+* **AWS2:** Create a custom instance EC2
+* **AWS3:** Create a custom instance EC2 with a volume attached
+* **AWS4:** Create a custom instance EC2 with a security group
+* **AWS5:** Create a custom instance EC2 with multiple inbound security group in module
 
 ### Docker
 * **Docker:** Just the basic of Terraform with Docker, main, outputs, variables
