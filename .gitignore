@@ -106,3 +106,5 @@ dist
 keys/
 
 Tutorials/**/.terraform/
+Tutorials/**/.terraform.lock.hcl
+Tutorials/**/terraform.tfstate.backup
