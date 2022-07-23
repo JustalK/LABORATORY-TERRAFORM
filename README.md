@@ -3,8 +3,14 @@
 A repository for me to play with the configuration of Terraform
 
 ## Experiences
+* **Docker:** Create a simple instance EC2
+* **Docker2:** Create a custom instance EC2
+* **Docker3:** Create a custom instance EC2 with a volume attached
 
-* Tutorials/Docker: Just the basic of Terraform with Docker, main, outputs, variables
+### Docker
+* **Docker:** Just the basic of Terraform with Docker, main, outputs, variables
+* **Docker2:** Just the basic of Terraform with modules
+* **Docker3:** Just the basic of Terraform with versions
 
 
 ## Link
