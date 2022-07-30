@@ -12,6 +12,7 @@ A repository for me to play with the configuration of Terraform
 - **AWS4:** Create a custom instance EC2 with a security group
 - **AWS5:** Create a custom instance EC2 with multiple inbound security group in module
 - **AWS6:** Creating metric alert for a custom EC2
+- **AWS6:** Creating an auto scalling group for AWS
 
 ### Docker
 
