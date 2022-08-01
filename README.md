@@ -14,6 +14,10 @@ A repository for me to play with the configuration of Terraform
 - **AWS6:** Creating metric alert for a custom EC2
 - **AWS6:** Creating an auto scalling group for AWS
 
+#### RDS
+
+- **RDS:** Create a database RDS postgresql
+
 ### Docker
 
 - **Docker:** Just the basic of Terraform with Docker, main, outputs, variables
